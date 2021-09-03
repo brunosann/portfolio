@@ -42,3 +42,5 @@ const addListRepository = async () => {
   s("#repository").innerHTML = transformHtml.join(" ");
 };
 addListRepository();
+
+console.log("testando webhook github");
