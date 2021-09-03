@@ -1,3 +1,3 @@
 # Meu Portfolio
 
-[Site](https://devteixeira.com/)
+[Site](https://devteixeira.com.br/)
