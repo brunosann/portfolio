@@ -36,7 +36,7 @@ const addListRepository = async () => {
     </div>
   `
   );
-  console.log(userJson);
+
   s(".public_repos").innerText = userJson.public_repos;
   s(".followers").innerText = userJson.followers;
   s("#repository").innerHTML = transformHtml.join(" ");
